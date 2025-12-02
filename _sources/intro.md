@@ -1,4 +1,6 @@
-# Welcome to ASC-bla's documentation! Hello it's Natalia. 
+# Welcome to ASC-bla's documentation! 
+# Hello it's Natalia 
+
 
 
 ASC-bla is a C++ library for basic linear algebra operations.
@@ -24,8 +26,8 @@ To configure and build some tests do
 
 To use ASC-bla in your code, set the compiler include path properly, and include the header files
 
-    #include <vector.h>
-    #include <matrix.h>
+    #include <vector.hpp>
+    #include <matrix.hpp>
 
 All objects are implemented in the namespace ASC_bla. To use them with less typing, you can set
 
